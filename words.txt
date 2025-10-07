@@ -1,7 +1,0 @@
-apple
-hangman
-computer
-university
-student
-keyboard
-programming
